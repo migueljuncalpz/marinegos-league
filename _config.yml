@@ -26,7 +26,6 @@ url: "https://marinegos-league.github.io" # the base hostname & protocol for you
 instagram_username: _diariobiwenger
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme 
